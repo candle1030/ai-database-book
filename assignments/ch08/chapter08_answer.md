@@ -898,7 +898,7 @@ https://github.com/candle1030/ai-database-book/blob/main/assignments/ch08/chapte
 내 제출 URL:
 
 ```text
-
+https://github.com/candle1030/ai-database-book/blob/main/assignments/ch08/chapter08_answer.md
 ```
 
 > 저장소 메인 URL, 교수자 템플릿 URL, Raw URL이 아니라 **작성 완료된 본인 `chapter08_answer.md` 파일 화면 URL**을 제출합니다.
